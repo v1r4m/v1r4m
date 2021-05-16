@@ -2,10 +2,10 @@
 v1r4m / 1998.05.09
 
 ### Career
-- 2014.02~2017.02Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government)
-- 2015.01~2017.02**SangSang Robotics club**
-- 2017.03~&emsp;&emsp;&emsp;**Chung-Ang University, Computer Science Engineering**
-- 2017.03~&emsp;&emsp;&emsp;**[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
+- 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government)
+- 2015.01~2017.02 **SangSang Robotics club**
+- 2017.03~ &emsp;&emsp;&emsp; **Chung-Ang University, Computer Science Engineering**
+- 2017.03~ &emsp;&emsp;&emsp; **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
 - 2017.03~2017.08 **CHIRO CAU Robotics club**
 - 2017.03~2017.08 CIEN CAU Computer Game Engineering club
 - 2017.07~2017.08 CAU summer vacation program - [Co. Edupang](https://edupang.com)
