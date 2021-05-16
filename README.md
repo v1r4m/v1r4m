@@ -17,8 +17,7 @@ v1r4m / 1998.05.09
 - Node.js - Express
 - robotC / C / C++ / QT
 - Embedded Programming / labView
-- Java
-- DBC / MySQL
+- Java / JDBC / MySQL
 - Unity / C#
 - javascript
 - Linux / git
