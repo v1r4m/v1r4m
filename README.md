@@ -2,14 +2,14 @@
 v1r4m / 1998.05.09
 
 ### Career
-- 2014.02~2017.02 Ansan Dongsan Christian High School (Sceince & Math focused high school designated by Korean government)
-- 2015.01~2017.02 **SangSang Robotics club**
-- 2017.03~&emsp;&emsp;&emsp;&emsp;**Chung-Ang University, Computer Science Engineering**
-- 2017.03~&emsp;&emsp;&emsp;&emsp;**ZeroPage CAU Computer Engineering club (https://zeropage.org)**
+- 2014.02~2017.02Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government)
+- 2015.01~2017.02**SangSang Robotics club**
+- 2017.03~&emsp;&emsp;&emsp;**Chung-Ang University, Computer Science Engineering**
+- 2017.03~&emsp;&emsp;&emsp;**[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
 - 2017.03~2017.08 **CHIRO CAU Robotics club**
 - 2017.03~2017.08 CIEN CAU Computer Game Engineering club
 - 2017.07~2017.08 CAU summer vacation program - Co. Edupang(https://edupang.com)
-- 2017.07~2018.03 GirlsRobot(https://www.facebook.com/GirlsRobot/)
+- 2017.07~2018.03 **[GirlsRobot](https://www.facebook.com/GirlsRobot/)**
 - 2019.05~2019.09 FRA:ME CAU E-sports club
 
 ### Skill
@@ -39,18 +39,18 @@ v1r4m / 1998.05.09
 - 2017 Advanced Robotics Challenge 테트리스 건축 로봇 (대한전자공학회 주최, 동상(전체 3위)) (2017.6) 
 - 2017 LINE 게임 공모전 출전 - Project 171, Project 런네상스 (2017.8)
 - girlsrobot wiki hosting with moniwiki (2018.3)
-- Data searching using STL (2018.10) https://github.com/v1r4m/STL-test
+- [Data searching using STL (2018.10)](https://github.com/v1r4m/STL-test)
 - Android Studio Map application (2019.1)
 - C++/QT wordgame (2019.3)
-- Capstone automatic music arrangement(2019.11) -> Capstone VR Rhythm game with HR monitoring (2020.6) https://github.com/v1r4m/VRfit
+- [Capstone automatic music arrangement(2019.11) -> Capstone VR Rhythm game with HR monitoring (2020.6)](https://github.com/v1r4m/VRfit)
 - Ept web page constructed for present of my professor! (2020.1)
 - cubeman randering (2020.8)
-- Image filter developing (2020.9) https://github.com/v1r4m/DIP
+- [Image filter developing (2020.9)](https://github.com/v1r4m/DIP)
 - News Recommendation System using reply data (2020.11) // project description 만들기
-- festa! calculator (2021.1) https://github.com/v1r4m/cal
+- [festa! calculator (2021.1)](https://github.com/v1r4m/cal)
 - java multicore set (2021.3)
 - machine learning (2021.7) // project description 만들기
-- Twitter word matching analysis with java/jdbc (2021.7) // project desciprtion 만들기
+- Twitter word matching analysis with java/jdbc (2021.7)// project desciprtion 만들기
 - Server/client chatting program (2021.7) // project description 만들기
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
