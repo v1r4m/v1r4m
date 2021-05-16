@@ -22,6 +22,14 @@ v1r4m / 1998.05.09
 - javascript
 - Linux / git
 
+<!--### Used Popular Library
+- Plotly.js
+- Pandas
+- Selenium
+- tweepy / koNLP
+- CUDA
+- /GET REST APIs-->
+
 ### Project
 //currently, only porject at high school is updated :) more projects will be updated soon!
 
