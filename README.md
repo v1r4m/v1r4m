@@ -21,6 +21,7 @@ v1r4m / 1998.05.09
 - DBC / MySQL
 - Unity / C#
 - javascript
+- Linux / git
 
 ### Project
 //currently, only porject at high school is updated :) more projects will be updated soon!
