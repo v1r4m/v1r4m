@@ -18,7 +18,7 @@ v1r4m / 1998.05.09
 - robotC / C / C++ / QT
 - Embedded Programming / labView
 - Java
-- ODBC / MySQL
+- DBC / MySQL
 - Unity / C#
 - javascript
 
