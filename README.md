@@ -33,19 +33,16 @@ v1r4m / 1998.05.09
 ### Project
 //currently, only porject at high school is updated :) more projects will be updated soon!
 
-- ~~2016 FLL 시각장애인용 점자 지도(네비게이션) 구현 (2015.2)~~
-- 자이로보이 PID 제어 (2015.4)
-- 인형뽑기 (2015.5)
-- 가상주행 RC카 프로젝트 (2015.5)
-- 777 머신 만들기 (2015.5)
-- ~~2016 WRO 동굴 로프제어 탐사 로봇 만들기 (2015.7)~~
-- 학습과 진화 알고리즘으로 탐구하는 지적 인공지능의 가능성 (그네로봇) (그러나 그냥 그네를 타는 로봇이 되었다) (2015.8)
-- 해바라기 태양광발전 구현 (2015.10)
-- 30000원으로 오큘러스 리프트를 만들자! 아두이노 헤드기어+레고 하드웨어로 마인크래프트 제어 - 교내 과학학술제 1위 (2015.12)
-- 아두이노 가속도 센서로 허리 재활운동 장치 만들기 (2016.7)
-- ~~시각장애인용 대중교통 지도 및 네비게이팅 시스템 구축(2017.3)~~
-- 2017 Advanced Robotics Challenge 테트리스 건축 로봇 (대한전자공학회 주최, 동상(전체 3위)) (2017.6) 
-- 2017 LINE 게임 공모전 출전 - Project 171, Project 런네상스 (2017.8)
+- (sw)GyroBoy PID control(2015.4)
+- (sw)dolls machine for high-school festival (2015.5)
+- (sw)virtual driving RC car for high-school festival(2015.5)
+- (sw)777 machine for high-shcool festival (2015.5)
+- machine learning with using swing robot(But it became just swing robot) (2015.8)
+- sunflower machine(using motor to make effective solar power generating system) (2015.10)
+- make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware - won first prize in Dongsan science competition (2015.12)
+- make a system for back rehabilitation excersice with arduino acceleration sensor (2016.7)
+- 2017 Advanced Robotics Challenge Tetrix construction robot (대한전자공학회 주최, 동상(3rd place)) (2017.6) 
+- 2017 LINE 게임 공모전 - Project 171, Project 런네상스 (2017.8)
 - girlsrobot wiki hosting with moniwiki (2018.3)
 - [Data searching using STL (2018.10)](https://github.com/v1r4m/STL-test)
 - Android Studio Map application (2019.1)
@@ -61,4 +58,10 @@ v1r4m / 1998.05.09
 - Twitter word matching analysis with java/jdbc (2021.7)// project desciprtion 만들기
 - Server/client chatting program (2021.7) // project description 만들기
 
+### paused Project / buckeet list
+
+- ~~2016 FLL braille map(navigation) for blind (2015.2)~~
+- ~~2016 WRO cave rope-controlled exploring machine design (2015.7)~~
+- ~~map for public transportation and navigating system for blind(2017.3)~~
+ 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
