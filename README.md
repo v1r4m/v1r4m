@@ -10,7 +10,7 @@ v1r4m / 1998.05.09
 - 2017.03~2017.08 CIEN CAU Computer Game Engineering club
 - 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com)
 - 2017.07~2018.03 **[GirlsRobot](https://www.facebook.com/GirlsRobot/)**
-- 2019.05~2019.09 FRA:ME CAU E-sports club
+- 2019.05~2019.09 [FRA:ME CAU E-sports club](https://www.facebook.com/CAUFRAME/)
 
 ### Skill
 - Python
