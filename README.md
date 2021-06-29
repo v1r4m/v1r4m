@@ -31,7 +31,6 @@ v1r4m / 1998.05.09
 - /GET REST APIs-->
 
 ### Project
-//currently, only porject at high school is updated :) more projects will be updated soon!
 
 - (sw)GyroBoy PID control(2015.4)
 - (sw)dolls machine for high-school festival (2015.5)
