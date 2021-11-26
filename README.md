@@ -20,6 +20,7 @@ v1r4m / 1998.05.09
 - Java / JDBC / MySQL
 - Unity / C#
 - Linux / git
+- TOEIC 920
 
 <!--### Used Popular Library
 - Plotly.js
