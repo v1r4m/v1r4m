@@ -14,7 +14,7 @@ v1r4m / 1998.05.09
 
 ### Skill
 - Python
-- Node.js - Express / javascript
+- React.js / Node.js - Express / javascript
 - robotC / C / C++ / QT
 - Embedded Programming / labView
 - Java / JDBC / MySQL
