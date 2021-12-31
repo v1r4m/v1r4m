@@ -57,6 +57,8 @@ v1r4m / 1998.05.09
 - machine learning (2021.7) // project description 만들기
 - Twitter word matching analysis with java/jdbc (2021.7)// project desciprtion 만들기
 - Server/client chatting program (2021.7) // project description 만들기
+- machine learning (2021.11) //project description
+- template matching with react (2021.11) //project description
 
 ### paused Project / buckeet list
 
