@@ -44,7 +44,7 @@ v1r4m / 1998.05.09
 - `C++` cubeman randering (2020.8)
 - `C++` [Image filter developing (2020.9)](https://github.com/v1r4m/DIP)
 - `Python` [News Recommendation System using reply data](https://github.com/kevinOriginal/news-recommender) (2020.11)
-- `node.js` [festa! calculator (2021.1)](https://github.com/v1r4m/cal)
+- `node.js` [calculator for backend interview (2021.1)](https://github.com/v1r4m/cal)
 - `JAVA` [java multicore set](https://github.com/v1r4m/goodbye/blob/main/2021.md#20213) (2021.3)
 - `Python` `Pytorch` `Jupyter Notebook` machine learning (2021.7) // project description 만들기
 - `Python` [Twitter word matching analysis](https://github.com/v1r4m/goodbye/blob/main/2021.md#20216) (2021.7)
