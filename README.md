@@ -25,13 +25,13 @@ v1r4m / 1998.05.09
 ### Project
 
 - `RobotC` [First LEGO League(robot) 2015 participate as a team Imagenation(1008)](https://github.com/v1r4m/fll2015/blob/main/KRC_Team%20Paper%201008%20Imagination.pdf)(2015.1)
-- `RobotC` [GyroBoy PID control](https://b01-kr-naver-vod.pstatic.net/cafe/a/read/v2/VOD_ALPHA/cafe_2015_12_03_11/e25690ff9336eced0333a166c544b3470b94_ugcvideo_480P_01.mp4?_lsu_sa_=6fe5d6f171fb69962fd105546a7556b58ebf32c8000e9f393d974bc3a71d3d65b925ca086645770040f53682ac32eb5bd2f98e098903a7642c644f52de9e1ec553a8fa473c93109589f5592c7a9c797e&in_out_flag=1) (2015.4)
+- `RobotC` [GyroBoy PID control](https://youtu.be/yi1JBCeA_nA) (2015.4)
 - `RobotC` dolls machine for high-school festival (2015.5)
 - `RobotC` virtual driving RC car for high-school festival(2015.5)
 - `RobotC` 777 machine for high-shcool festival (2015.5)
 - `RobotC` machine learning with using swing robot(But it became just swing robot) (2015.8)
 - `RobotC` sunflower machine(using motor to make effective solar power generating system) (2015.10)
-- `Processing` `Arduino` make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware - won first prize in Dongsan science competition (2015.12)
+- `Processing` `Arduino` [make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware](https://github.com/v1r4m/arduino-oculus) - won first prize in Dongsan science competition (2015.12)
 - `Processing` `Arduino` make a system for back rehabilitation excersice with arduino acceleration sensor (2016.7)
 - `C++` 2017 Advanced Robotics Challenge Tetrix construction robot (대한전자공학회 주최, 동상(3rd place)) (2017.6) 
 - `Unity` 2017 LINE 게임 공모전 - Project 171, Project 런네상스 (2017.8)
