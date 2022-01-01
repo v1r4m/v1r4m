@@ -27,7 +27,7 @@ v1r4m / 1998.05.09
 - `RobotC` [First LEGO League(robot) 2015 participate as a team Imagenation(1008)](https://github.com/v1r4m/fll2015/blob/main/KRC_Team%20Paper%201008%20Imagination.pdf)(2015.1)
 - `RobotC` [GyroBoy PID control](https://youtu.be/yi1JBCeA_nA) (2015.4)
 - `RobotC` dolls machine for high-school festival (2015.5)
-- `RobotC` virtual driving RC car for high-school festival(2015.5)
+- `RobotC` [virtual driving RC car for high-school festival](https://github.com/v1r4m/robots_highschool/blob/main/README.md) (2015.5)
 - `RobotC` 777 machine for high-shcool festival (2015.5)
 - `RobotC` machine learning with using swing robot(But it became just swing robot) (2015.8)
 - `RobotC` sunflower machine(using motor to make effective solar power generating system) (2015.10)
