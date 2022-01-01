@@ -34,7 +34,7 @@ v1r4m / 1998.05.09
 - `Processing` `Arduino` make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware - won first prize in Dongsan science competition (2015.12)
 - `Processing` `Arduino` make a system for back rehabilitation excersice with arduino acceleration sensor (2016.7)
 - `C++` 2017 Advanced Robotics Challenge Tetrix construction robot (대한전자공학회 주최, 동상(3rd place)) (2017.6) 
-- `Unreal Engine 3` 2017 LINE 게임 공모전 - Project 171, Project 런네상스 (2017.8)
+- `Unity` 2017 LINE 게임 공모전 - Project 171, Project 런네상스 (2017.8)
 - `PHP` girlsrobot wiki hosting with moniwiki (2018.3)
 - `C++` [Data searching using STL](https://github.com/v1r4m/STL-test) (2018.10)
 - `Android Studio` Android Studio Map application (2019.1)
