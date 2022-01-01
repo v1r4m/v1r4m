@@ -14,21 +14,13 @@ v1r4m / 1998.05.09
 
 ### Skill
 - Python
-- React.js / Node.js - Express / javascript
+- javascript / React.js / Node.js
 - robotC / C / C++ / QT
-- Embedded Programming / labView
+- Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - Java / JDBC / MySQL
 - Unity / C#
-- Linux / git
+- Linux
 - TOEIC 920
-
-<!--### Used Popular Library
-- Plotly.js
-- Pandas
-- Selenium
-- tweepy / koNLP
-- CUDA
-- /GET REST APIs-->
 
 ### Project
 
