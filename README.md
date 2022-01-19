@@ -46,10 +46,10 @@ v1r4m / 1998.05.09
 - `Python` [News Recommendation System using reply data](https://github.com/kevinOriginal/news-recommender) (2020.11)
 - `node.js` [calculator for backend interview](https://github.com/v1r4m/cal) (2021.1)
 - `JAVA` [java multicore set](https://github.com/v1r4m/goodbye/blob/main/2021.md#20213) (2021.3)
-- `Python` `Pytorch` `Jupyter Notebook` machine learning (2021.7) // project description 만들기
+- `Python` `Pytorch` `Jupyter Notebook` [machine learning](https://github.com/v1r4m/MLmd) (2021.7)
 - `Python` [Twitter word matching analysis](https://github.com/v1r4m/goodbye/blob/main/2021.md#20216) (2021.7)
 - `Python` [Server/client chatting program](https://github.com/v1r4m/goodbye/blob/main/2021.md#20218) (2021.7)
-- `Python` `Pytorch` machine learning (2021.11) //project description
+- `Python` `Pytorch` [machine learning](https://github.com/v1r4m/MLmd) (2021.11)
 - `React native` `Django` [template matching with react](https://www.youtube.com/watch?v=Hj0yWGxVoQQ) (2021.11)
 
 ### paused Project / buckeet list
