@@ -20,7 +20,7 @@ v1r4m / 1998.05.09
 - Java / JDBC / MySQL
 - Unity / C#
 - Linux
-- TOEIC 920
+- TOEIC 920 / OPIC AL
 
 ### Project
 
