@@ -17,7 +17,7 @@ v1r4m / 1998.05.09
 - Python / Django
 - javascript / React.js / Node.js
 - robotC / C / C++ / QT
-- Java / JDBC / MySQL
+- Java / JDBC / MySQL / JSP
 - Unity / C# / .NET Framework
 - Linux
 - Embedded Programming / Arduino / Raspberry Pi 3 / labView
