@@ -14,13 +14,13 @@ v1r4m / 1998.05.09
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 
 ### Skill
-- Python
+- Python / Django
 - javascript / React.js / Node.js
 - robotC / C / C++ / QT
-- Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - Java / JDBC / MySQL
-- Unity / C#
+- Unity / C# / .NET Framework
 - Linux
+- Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL
 
 ### Project
