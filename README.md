@@ -51,6 +51,7 @@ v1r4m / 1998.05.09
 - `Python` [Server/client chatting program](https://github.com/v1r4m/goodbye/blob/main/2021.md#20218) (2021.7)
 - `Python` `Pytorch` [machine learning](https://github.com/v1r4m/MLmd) (2021.11)
 - `React native` `Django` [template matching with react](https://www.youtube.com/watch?v=Hj0yWGxVoQQ) (2021.11)
+- `React native` `Django` [Twitter Search API and D3 visualization](https://github.com/v1r4m/NLP) (2022.9)
 
 ### paused Project / buckeet list
 
