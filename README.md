@@ -19,8 +19,7 @@ v1r4m / 1998.05.09
 - robotC / C / C++ / QT
 - Java / JDBC / MySQL / JSP
 - Unity / C# / .NET Framework
-- Linux
-- Embedded Programming / Arduino / Raspberry Pi 3 / labView
+- Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL
 
 ### Project
