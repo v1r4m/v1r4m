@@ -59,4 +59,6 @@ v1r4m / 1998.05.09
 - ~~2016 WRO cave rope-controlled exploring machine design (2015.7)~~
 - ~~map for public transportation and navigating system for blind(2017.3)~~
  
+ ### retrospective
+ - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
