@@ -15,7 +15,7 @@ v1r4m / 1998.05.09
 
 ### Skill
 - Python
-- django / javascript / React.js / Node.js (Full-stack)
+- django / javascript / React.js / Node.js
 - robotC / C / C++ / QT
 - Java / JDBC / MySQL / JSP
 - Unity / C# / .NET Framework
