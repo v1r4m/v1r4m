@@ -14,7 +14,8 @@ v1r4m / 1998.05.09
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 
 ### Skill
-- Python / Django
+- Python / pytorch
+- django
 - javascript / React.js / Node.js
 - robotC / C / C++ / QT
 - Java / JDBC / MySQL / JSP
