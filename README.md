@@ -16,8 +16,8 @@ v1r4m / 1998.05.09
 ### Skill
 - Python
 - django / javascript / React.js / Node.js
-- robotC / C / C++ / QT
 - Java / JDBC / MySQL / JSP
+- robotC / C / C++ / QT
 - Unity / C# / .NET Framework
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL
