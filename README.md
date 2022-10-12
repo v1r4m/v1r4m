@@ -20,8 +20,8 @@ v1r4m / 1998.05.09
 - robotC / C / C++ / QT
 - Unity / C# / .NET Framework
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
-- TOEIC 920 / OPIC AL
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
+- TOEIC 920 / OPIC AL  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Project
 
@@ -63,3 +63,8 @@ v1r4m / 1998.05.09
  ### retrospective
  - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
+
+### Contact me
+ - choyoung7789@gmail.com  
+![image](https://user-images.githubusercontent.com/26866063/195257099-0becb6bd-2880-4f34-b98f-6d03517ddd28.png)
+
