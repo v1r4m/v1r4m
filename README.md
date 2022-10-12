@@ -17,8 +17,9 @@ v1r4m / 1998.05.09
 - Python
 - django / javascript / React.js / Node.js
 - Java / JDBC / MySQL / JSP
+- C# / .NET Framework
 - robotC / C / C++ / QT
-- Unity / C# / .NET Framework
+- Unity / C#
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
