@@ -54,6 +54,7 @@ v1r4m / 1998.05.09
 - `Python` `Pytorch` [machine learning](https://github.com/v1r4m/MLmd) (2021.11)
 - `React native` `Django` [template matching with react](https://www.youtube.com/watch?v=Hj0yWGxVoQQ) (2021.11)
 - `React native` `Django` [Twitter Search API and D3 visualization](https://github.com/v1r4m/NLP) (2022.9)
+- `C#` `.NET Framework` [Twitter Viewer](https://github.com/v1r4m/tt) (2022.10)
 
 ### paused Project / buckeet list
 
