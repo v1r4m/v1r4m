@@ -21,6 +21,7 @@ v1r4m / 1998.05.09
 - Unity / C# / .NET Framework
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Project
 
