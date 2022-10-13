@@ -68,4 +68,3 @@ v1r4m / 1998.05.09
 
 ### Contact me
  - choyoung7789@gmail.com  
-![image](https://user-images.githubusercontent.com/26866063/195263937-978d9695-a914-46d1-b3ad-da90eda6a640.png)
