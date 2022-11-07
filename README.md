@@ -15,9 +15,10 @@ v1r4m / 1998.05.09
 
 ### Skill
 - Python 3.x / pytorch
-- django / javascript / React.js / Node.js
-- Java / Spring / JDBC / MySQL
-- C# / .NET Framework
+- django / javascript / React.js / Node.js / Firebase
+- Java / Spring / JDBC / MySQL / postgreSQL
+- PHP / Laravel / OracleDB
+- C# / .NET Framework / Windows SDK
 - Docker / PHP / Laravel
 - robotC / C / C++ / QT
 - Unity
