@@ -77,5 +77,11 @@ v1r4m / 1998.05.09
  - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
 
+### As a Developer...
+1. Do not fear a change
+2. Enjoy learning new things
+3. Globally communicate, open everything in English
+4. Engineering means always looking for a better solution
+
 ### Contact me
  - choyoung7789@gmail.com  
