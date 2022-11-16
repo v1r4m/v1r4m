@@ -57,10 +57,10 @@ v1r4m / 1998.05.09
 - `C++` 2017 Advanced Robotics Challenge Tetrix construction robot (대한전자공학회 주최, 동상(3rd place)) (2017.6) 
 #### 2016 - DS High School
 - `Processing` `Arduino` make a system for back rehabilitation excersice with arduino acceleration sensor (2016.7)
-- `Processing` `Arduino` [make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware](https://github.com/v1r4m/arduino-oculus) - won first prize in Dongsan science competition (2015.12)
 #### 2015 - DS High School
+- `Processing` `Arduino` [make Oculus Rift with 30000 won! controlling Minecraft with arduino headgear+lego hardware](https://github.com/v1r4m/arduino-oculus) - won first prize in Dongsan science competition (2015.12)
 - `RobotC` sunflower machine(using motor to make effective solar power generating system) (2015.10)
-- `RobotC` machine learning with using swing robot(But it became just swing robot) (2015.8)
+- `RobotC` machine learning using swing robot(But it became just swing robot) (2015.8)
 - `RobotC` 777 machine for high-shcool festival (2015.5)
 - `RobotC` [virtual driving RC car for high-school festival](https://github.com/v1r4m/robots_highschool/blob/main/README.md) (2015.5)
 - `RobotC` dolls machine for high-school festival (2015.5)
