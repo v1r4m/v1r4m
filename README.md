@@ -1,6 +1,10 @@
 ### Hi there 👋
 v1r4m / 1998.05.09
 
+*Studying Programming 8y*
+
+*Working as a SW Engineer 1y*
+
 ### Career
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
