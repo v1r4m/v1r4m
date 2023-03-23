@@ -2,7 +2,7 @@
 v1r4m / 1998.05.09
 
 ### Career
-- 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Full-Stack Developer**
+- 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
 - 2017.03~2023.02 **Chung-Ang University(중앙대학교), Computer Science Engineering**
 - 2019.05~2019.09 [FRA:ME CAU E-sports club](https://www.facebook.com/CAUFRAME/)
@@ -28,9 +28,9 @@ v1r4m / 1998.05.09
 
 ### Project
 #### 2022 - F&F
-<!-- - `PHP` `Laravel` `Docker` [F&F](https://www.fnf.co.kr/pages/main/main.php) [SMS(Shop Management System)](https://sms.fnf.co.kr) (2022.11) -->
+- `PHP` `Laravel` `Docker` [F&F](https://www.fnf.co.kr/pages/main/main.php) [SMS(Shop Management System)](https://sms.fnf.co.kr) (2022.11)
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
-<!-- - `JAVA` `SPRING` [F&F](https://www.fnf.co.kr/pages/main/main.php) [EC backend System](https://ec.fnf.co.kr) (2022.10) -->
+- `JAVA` `SPRING` [F&F](https://www.fnf.co.kr/pages/main/main.php) [EC backend System](https://ec.fnf.co.kr) (2022.10)
 - `C#` `.NET Framework` [Twitter Viewer](https://github.com/v1r4m/tt) (2022.10)
 - `React native` `Django` [Twitter Search API and D3 visualization](https://github.com/v1r4m/NLP) (2022.9)
 #### 2021 - Chung-Ang University
