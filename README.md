@@ -14,12 +14,11 @@ v1r4m / 1998.05.09
 - 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government)
 
 ### Skill
-- Python 3.x / pytorch
-- django / javascript / React.js / Node.js / Firebase
-- Java / Spring / JDBC / MySQL / postgreSQL
-- PHP / Laravel / OracleDB
+- PHP / Laravel / Docker
+- Python 3.x / djanago
+- React.js / Node.js / Nuxt.js / Firebase
+- Java / Spring / MyBatis
 - C# / .NET Framework / Windows SDK
-- Docker / PHP / Laravel
 - robotC / C / C++ / QT
 - Unity
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
