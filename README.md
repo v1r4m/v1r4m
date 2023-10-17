@@ -84,4 +84,5 @@ v1r4m / 1998.05.09
 4. Engineering means always looking for a better solution
 
 ### Contact me
- - choyoung7789@gmail.com  
+ - choyoung7789@gmail.com
+ - [soundcloud](https://soundcloud.com/v1r4m)
