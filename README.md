@@ -5,7 +5,6 @@ v1r4m / 1998.05.09
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
 - 2017.03~2023.02 **Chung-Ang University(중앙대학교), Computer Science Engineering**
-- 2019.05~2019.09 [FRA:ME CAU E-sports club](https://www.facebook.com/CAUFRAME/)
 - 2017.07~2018.03 **[GirlsRobot](https://www.facebook.com/GirlsRobot/)**
 - 2017.07~2017.08 CAU summer vacation internship program - [Co. Edupang](https://edupang.com)
 - 2017.03~2017.08 CIEN CAU Computer Game Engineering club
