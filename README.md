@@ -1,7 +1,7 @@
 ### Hi there 👋
-v1r4m / 1998.05.09
+viram / 1998.05.09
 
-### Career
+<!-- ### Career
 - 2022.09~ &emsp;&emsp;&emsp; **[F&F](https://www.fnf.co.kr/pages/main/main.php) Junior Backend Developer**
 - 2017.03~2023.02 **[ZeroPage CAU Computer Engineering club](https://zeropage.org)**
 - 2017.03~2023.02 **Chung-Ang University(중앙대학교), Computer Science Engineering**
@@ -10,7 +10,7 @@ v1r4m / 1998.05.09
 - 2017.03~2017.08 CIEN CAU Computer Game Engineering club
 - 2017.03~2017.08 **CHIRO CAU Robotics club**
 - 2015.01~2017.02 **SangSang Robotics club**
-- 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government)
+- 2014.02~2017.02 Ansan Dongsan Christian High School (Science & Math focused high school designated by Korean government) 
 
 ### Skill
 - PHP / Laravel / Docker
@@ -21,10 +21,10 @@ v1r4m / 1998.05.09
 - robotC / C / C++ / QT
 - Unity
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
-- TOEIC 920 / OPIC AL  
+- TOEIC 920 / OPIC AL  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
 
-### Project
+<!-- ### Project
 #### 2022 - F&F
 - `PHP` `Laravel` `Docker` [F&F](https://www.fnf.co.kr/pages/main/main.php) [SMS(Shop Management System)](https://sms.fnf.co.kr) (2022.11)
 - `django` [someATM coding test assignment](https://github.com/v1r4m/someATM) (2022.11)
@@ -73,10 +73,10 @@ v1r4m / 1998.05.09
 - ~~map for public transportation and navigating system for blind(2017.3)~~
  
  ### retrospective
- - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md)
+ - [2021](https://github.com/v1r4m/goodbye/blob/main/2021.md) -->
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=v1r4m)-->
 
-### As a Developer...
+<!-- ### As a Developer...
 1. Do not fear a change
 2. Enjoy learning new things
 3. Globally communicate, open everything in English
@@ -84,4 +84,6 @@ v1r4m / 1998.05.09
 
 ### Contact me
  - choyoung7789@gmail.com
- - [soundcloud](https://soundcloud.com/v1r4m)
+ - [soundcloud](https://soundcloud.com/v1r4m) -->
+
+code for work, translate for fun
