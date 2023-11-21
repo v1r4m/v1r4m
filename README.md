@@ -22,7 +22,7 @@ viram / 1998.05.09
 - Unity
 - Linux / Embedded Programming / Arduino / Raspberry Pi 3 / labView
 - TOEIC 920 / OPIC AL  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4m)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- ### Project
 #### 2022 - F&F
@@ -86,4 +86,10 @@ viram / 1998.05.09
  - choyoung7789@gmail.com
  - [soundcloud](https://soundcloud.com/v1r4m) -->
 
-code for work, translate for fun
+<!-- code for work, translate for fun -->
+
+- **OSINT**
+- Reverse Engineering
+- Scripting
+- Service Monitoring / Visualization
+- IoT / toy-robotics / Logistics / Supply Chain
