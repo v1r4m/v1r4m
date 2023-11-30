@@ -87,13 +87,15 @@ viram / 1998.05.09
  - [soundcloud](https://soundcloud.com/v1r4m) -->
 
 <!-- code for work, translate for fun -->
+- web backend developer
+- currently working at [F&F](https://fnf.co.kr)
 
-<!-- 
+## Likes 
 - **OSINT**
 - Reverse Engineering
 - Scripting
 - Service Monitoring / Visualization
-- IoT / toy-robotics / Logistics / Supply Chain -->
+- IoT / toy-robotics / Logistics / Supply Chain
 
 ## OSINT ethical principles
 1. **Privacy Protection**: Even when collecting information through OSINT, it is important to adhere to privacy laws. Especially when dealing with sensitive personal information such as social security numbers, phone numbers, addresses, etc., extra care is needed.
