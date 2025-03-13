@@ -1,5 +1,6 @@
-### Hi there 👋
-viram / 1998.05.09
-- web backend developer
-- currently working at [F&F](https://fnf.co.kr)
-- [account](https://github.com/eunjinkosilver) that I use in company
+<div align="center">
+  <img src="https://image-3rql.onrender.com/200w?cachebuster=123" width="200">
+</div>
+<div align="center">
+  💻 Writing bugs professionally since 1998.
+</div>
